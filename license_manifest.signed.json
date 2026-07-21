@@ -2,7 +2,7 @@
   "payload": {
     "schema": 2,
     "product": "PoliceOperationsAssistant",
-    "issued_at": "2026-07-20T23:42:54Z",
+    "issued_at": "2026-07-21T00:00:08Z",
     "active": true,
     "min_version": "0.4.9",
     "expires_at": null,
@@ -16,13 +16,19 @@
         "devices": [
           "64FEB7F46F300D7BB75694F4CCBE7F2E"
         ],
-        "build_ids": [],
-        "artifact_sha256": {},
-        "watermarks": {},
+        "build_ids": [
+          "USER-DIMITRI-001-20260720235351-58345716CD"
+        ],
+        "artifact_sha256": {
+          "USER-DIMITRI-001-20260720235351-58345716CD": "0d507f4bf7e694f016c031ba65be55a0bc218a5011d8346fdaba4458ddf747ca"
+        },
+        "watermarks": {
+          "USER-DIMITRI-001-20260720235351-58345716CD": "CEF32F79632F4AFE4A21"
+        },
         "expires_at": null,
         "created_at": "2026-07-20T23:42:54.110852+00:00"
       }
     }
   },
-  "signature": "PdGzZSqPQmAMjB6FpTZNnv53mGpjLjWhbbVEWir50nWWTl-CVuhDB9YwoEjPGsR5UD49DYEjbE3gCZkOUhjSBA"
+  "signature": "D4ngmypZVdX27ePJGLr5XypcDcqcCf1Y2PCgi0B84rsPsfj12joeB6vzLl9pE6LPbCrTKtJXjv6mvfrTXFUhDw"
 }
