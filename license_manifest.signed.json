@@ -2,7 +2,7 @@
   "payload": {
     "schema": 2,
     "product": "PoliceOperationsAssistant",
-    "issued_at": "2026-07-21T00:00:08Z",
+    "issued_at": "2026-07-21T00:02:59Z",
     "active": true,
     "min_version": "0.4.9",
     "expires_at": null,
@@ -11,7 +11,7 @@
     "revoked_build_ids": [],
     "licenses": {
       "USER-DIMITRI-001": {
-        "active": true,
+        "active": false,
         "label": "Dimitri Lafrov",
         "devices": [
           "64FEB7F46F300D7BB75694F4CCBE7F2E"
@@ -30,5 +30,5 @@
       }
     }
   },
-  "signature": "D4ngmypZVdX27ePJGLr5XypcDcqcCf1Y2PCgi0B84rsPsfj12joeB6vzLl9pE6LPbCrTKtJXjv6mvfrTXFUhDw"
+  "signature": "NpSZC6aD0NZv7iveMKRRDFdJBU7wKchTb9Uyej7hQyUpDK_DHuAotDEbdCjHYX6_Si2qwNJ2Ppxt8wRDbX29BA"
 }
