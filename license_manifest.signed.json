@@ -2,7 +2,7 @@
   "payload": {
     "schema": 2,
     "product": "PoliceOperationsAssistant",
-    "issued_at": "2026-07-21T00:02:59Z",
+    "issued_at": "2026-07-21T00:48:38Z",
     "active": true,
     "min_version": "0.4.9",
     "expires_at": null,
@@ -30,5 +30,5 @@
       }
     }
   },
-  "signature": "NpSZC6aD0NZv7iveMKRRDFdJBU7wKchTb9Uyej7hQyUpDK_DHuAotDEbdCjHYX6_Si2qwNJ2Ppxt8wRDbX29BA"
+  "signature": "F3kEycvcH26AEjX7qXO2qYC4uKPbCsAKvVkc9kKJx91xZSy2NZ0N28FNqdEHUWTieLrLZNzJF9KB76E5uqhpBw"
 }
