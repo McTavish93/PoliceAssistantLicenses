@@ -2,7 +2,7 @@
   "payload": {
     "schema": 2,
     "product": "PoliceOperationsAssistant",
-    "issued_at": "2026-07-21T11:50:24Z",
+    "issued_at": "2026-07-21T12:11:38Z",
     "active": true,
     "min_version": "0.4.9",
     "expires_at": null,
@@ -10,16 +10,30 @@
     "blocked_devices": [],
     "revoked_build_ids": [],
     "licenses": {
-      "USR-DIMITRI-7A6939": {
+      "USR-DIMITRI-20A369": {
         "active": true,
         "label": "dimitri",
         "devices": [
           "64FEB7F46F300D7BB75694F4CCBE7F2E"
         ],
         "expires_at": null,
-        "created_at": "2026-07-21T12:50:24.523138+01:00"
+        "created_at": "2026-07-21T13:07:12.445837+01:00"
       }
+    },
+    "universal_build_ids": [
+      "UNIVERSAL-20260721115125-72C12FAC25",
+      "UNIVERSAL-20260721115734-299BCB5AB4",
+      "UNIVERSAL-20260721120129-E78F973C38",
+      "UNIVERSAL-20260721120712-281EE52F53"
+    ],
+    "universal_artifact_sha256": {
+      "UNIVERSAL-20260721120129-E78F973C38": "3d6513f64b2cabd7c40454677db9475adee8ec07273c91bba8e3700f6047173b",
+      "UNIVERSAL-20260721120712-281EE52F53": "50c4692b185bd7e6dd3d5b5e49bc23526ae8c1d16e04abe3e002e6b9ffd8f838"
+    },
+    "universal_watermarks": {
+      "UNIVERSAL-20260721120129-E78F973C38": "84C04D8AC2A94B67865B",
+      "UNIVERSAL-20260721120712-281EE52F53": "E903473FEB8F5F26BFED"
     }
   },
-  "signature": "LNDLPmIUP0TmVn-cvWS3MPNwv3fwdc2kZVbIVAJgyjIWkyWzU6XLy8P2frtRrxXAU2sK4D4nVHtN15p5cgKEBA"
+  "signature": "iRnhV0t8oYEym2ONnhzoXKiyBlWavQs5hmXziLztTcwF43e6SIElxEMPyP_CD95PP6WPE9bNQLP5IGmhff9EDQ"
 }
