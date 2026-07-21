@@ -1,2 +1,0 @@
-# PoliceAssistantLicenses
-تــــسهيلات الـــعمـــليــــات
