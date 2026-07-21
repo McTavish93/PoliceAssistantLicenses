@@ -2,7 +2,7 @@
   "payload": {
     "schema": 2,
     "product": "PoliceOperationsAssistant",
-    "issued_at": "2026-07-21T01:08:35Z",
+    "issued_at": "2026-07-21T01:22:43Z",
     "active": true,
     "min_version": "0.4.9",
     "expires_at": null,
@@ -17,19 +17,21 @@
           "64FEB7F46F300D7BB75694F4CCBE7F2E"
         ],
         "build_ids": [
-          "USER-DIMITRI-001-20260720235351-58345716CD"
+          "USER-DIMITRI-001-20260720235351-58345716CD",
+          "USER-DIMITRI-001-20260721011853-79C7ABBC19"
         ],
         "artifact_sha256": {
-          "USER-DIMITRI-001-20260720235351-58345716CD": "0d507f4bf7e694f016c031ba65be55a0bc218a5011d8346fdaba4458ddf747ca"
+          "USER-DIMITRI-001-20260720235351-58345716CD": "0d507f4bf7e694f016c031ba65be55a0bc218a5011d8346fdaba4458ddf747ca",
+          "USER-DIMITRI-001-20260721011853-79C7ABBC19": "44ba1dd9477f65fabce2fff7af8b56199c12160f8fdb4c363d13da6ccbd1c768"
         },
         "watermarks": {
-          "USER-DIMITRI-001-20260720235351-58345716CD": "CEF32F79632F4AFE4A21"
+          "USER-DIMITRI-001-20260720235351-58345716CD": "CEF32F79632F4AFE4A21",
+          "USER-DIMITRI-001-20260721011853-79C7ABBC19": "4FDA603AC4C39BA28731"
         },
         "expires_at": null,
-        "reason": "",
         "created_at": "2026-07-20T23:42:54.110852+00:00"
       }
     }
   },
-  "signature": "98Z6RhVrnMGqWULai4w3iUUxhRyBMbYqawhB_7Dv1pDbiWJwpXvJLOCa8H1OoIhHYtwQ3zVGgGE3ahvk8yMgBg"
+  "signature": "W7h8lveWsFOn_Ufq6V6rS_Tjc2yhLhux51qrI7wbQKuTVnfhYVDJGNr5fRhBvrqnFVPfqXz7aquXaIxvfxH3BQ"
 }
